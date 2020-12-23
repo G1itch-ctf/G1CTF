@@ -1,2 +1,2 @@
-# G1CTF_1st
-G1ctf_第一次比赛
+# G1CTF
+G1ctf比赛题目
